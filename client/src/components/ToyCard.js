@@ -40,6 +40,7 @@ function ToyCard({ toy, onDeleteToy, onUpdateToy }) {
       <button className="del-btn" onClick={handleDeleteClick}>
         Donate to GoodWill
       </button>
+     
     </div>
   );
 }
